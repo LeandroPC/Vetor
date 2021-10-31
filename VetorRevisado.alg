@@ -11,7 +11,7 @@ inicio
 enquanto rep <= 1 faca
 
    para i de 1 ate 4 faca
-      escreval ("Informe a hora que a temperatura ",i," foi medida: ")
+      escreval ("Informe a hora que a ",i,"ª temperatura foi medida: ")
       leia(hora [i])
    fimpara
 
